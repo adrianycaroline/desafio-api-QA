@@ -24,7 +24,6 @@ O objetivo é validar endpoints críticos das principais funcionalidades do sist
 ### Login
   1. Login com credenciais válidas (200)
   2. Login com credenciais inválidas (401)
-  3. Tentativa de login com campos vazios (possível cenário adicional)
 
 ### Usuários
   1. Cadastro de novo usuário com sucesso (201)
